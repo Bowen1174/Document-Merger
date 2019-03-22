@@ -1,0 +1,7 @@
+C:\Users\Austin Bowen\Documents\IT_2040\DocumentMerger\DocumentMerger\bin\Debug\DocumentMerger.exe.config
+C:\Users\Austin Bowen\Documents\IT_2040\DocumentMerger\DocumentMerger\bin\Debug\DocumentMerger.exe
+C:\Users\Austin Bowen\Documents\IT_2040\DocumentMerger\DocumentMerger\bin\Debug\DocumentMerger.pdb
+C:\Users\Austin Bowen\Documents\IT_2040\DocumentMerger\DocumentMerger\obj\Debug\DocumentMerger.csprojAssemblyReference.cache
+C:\Users\Austin Bowen\Documents\IT_2040\DocumentMerger\DocumentMerger\obj\Debug\DocumentMerger.csproj.CoreCompileInputs.cache
+C:\Users\Austin Bowen\Documents\IT_2040\DocumentMerger\DocumentMerger\obj\Debug\DocumentMerger.exe
+C:\Users\Austin Bowen\Documents\IT_2040\DocumentMerger\DocumentMerger\obj\Debug\DocumentMerger.pdb
